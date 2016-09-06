@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+	color: red;	
+	font-size:40px;
+	font-family: arial black;
+}
+p {
+	text-align: center;
+	color: #ff9933;
+	font-size:20px;
+	font-family: arial black;
+	
+}
+body{
+	background-color: lightblue;
+	background-image: url(achtergrondd.jpg);
+	background-size: 2000px;
+	background-repeat: no-repeat;
+}
+a{
+	color:red;
+}
+h2{
+	color: red;
+	font-family: arial black;
+}
+
+
+il{color: #ff9933;}
